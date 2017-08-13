@@ -24,7 +24,7 @@
   },
   {
     "remote": "github",
-    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "repository": "kukun7610/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch": "cm-14.1"
    }
